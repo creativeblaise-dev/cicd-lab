@@ -1,4 +1,4 @@
-# CI/CD Lab Starter
+# CI/CD Lab 
 
 A small Express and TypeScript app for the CI/CD Crash Course. Use this starting point to follow along with automated testing, GitHub Actions, and deployment to Render.
 
